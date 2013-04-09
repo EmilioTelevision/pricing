@@ -1,0 +1,110 @@
+#pricing {
+
+}
+.bronze {
+width: 239px;
+height: 708px;
+float: left;
+z-index: 1;
+background: url('../../images/bronze4.png') left top no-repeat;
+margin-top: 14px;
+padding-top: 146px;
+}
+.bronze .row1 {
+margin-top: 48px;
+}
+.bronze .row2 {
+margin-top: 29px;
+}
+.bronze .row3 {
+margin-top: 19px;
+}
+.bronze .row4 {
+margin-top: 25px;
+margin-left: 111px;
+}
+.bronze .row5 {
+margin-top: 30px;
+margin-left: 111px;
+}
+.bronze .row6 {
+margin-top: 34px;
+margin-left: 111px;
+}
+.bronze .row7 {
+margin-top: 28px;
+margin-left: 37px;
+}
+.gold {
+width: 247px;
+height: 736px;
+float: left;
+clear: right;
+z-index: 1099;
+position: relative;
+margin-left: -39px;
+padding-top: 152px;
+background: url('../../images/gold4.png') left top no-repeat;
+}
+.gold h1 {
+margin-left:20px;	
+}
+.gold .row1 {
+margin-top: 48px;
+}
+.gold .row2 {
+margin-top: 38px;
+}
+.gold .row3 {
+margin-top: 29px;
+}
+.gold .row4 {
+margin-top: 20px;
+margin-left: 7px;
+}
+.gold .row5 {
+margin-top: 23px;
+}
+.gold .row6 {
+margin-top: 33px;
+}
+.gold .row7 {
+margin-top: 33px;
+margin-left: 47px;
+}
+.silver {
+width: 247px;
+height: 708px;
+float: left;
+margin-left: -40px;
+z-index: -1;
+background: url('../../images/silver4.png') left top no-repeat;
+margin-top: 14px;
+padding-top: 162px;
+}
+.silver h1 {
+margin-left:20px;	
+}
+.silver .row1 {
+margin-top: 60px;
+}
+.silver .row2 {
+margin-top: 31px;
+}
+.silver .row3 {
+margin-top: 28px;
+}
+.silver .row4 {
+margin-top: 30px;
+}
+.silver .row5 {
+margin-top: 33px;
+}
+.silver .row6 {
+margin-top: 34px;
+margin-left: 111px;
+}
+.silver .row7 {
+margin-top: 28px;
+margin-left: 47px;
+}

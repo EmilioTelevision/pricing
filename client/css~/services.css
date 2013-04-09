@@ -1,0 +1,22 @@
+#services {
+width: 656px;
+height: 213px;
+background: url('../../images/services.png')  no-repeat;
+clear: both;
+position: relative;
+top: -141px;
+padding-top: 12px;
+}
+#services p {
+color:black;
+width: 100%;
+text-align: left;
+margin-left: 27px;
+line-height: 1.5;
+}
+ #services h1 {
+width: 100%;	
+}
+#services img {
+margin-right:10px;
+}
