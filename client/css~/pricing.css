@@ -6,7 +6,7 @@ width: 239px;
 height: 708px;
 float: left;
 z-index: 1;
-background: url('../../images/bronze.png') left top no-repeat;
+background: url('../../images/bronze_price.png') left top no-repeat;
 margin-top: 14px;
 padding-top: 146px;
 }
@@ -44,7 +44,7 @@ z-index: 1099;
 position: relative;
 margin-left: -39px;
 padding-top: 152px;
-background: url('../../images/gold.png') left top no-repeat;
+background: url('../../images/gold_price.png') left top no-repeat;
 }
 .gold h1 {
 margin-left:20px;	
@@ -78,7 +78,7 @@ height: 708px;
 float: left;
 margin-left: -40px;
 z-index: -1;
-background: url('../../images/silver5.png') left top no-repeat;
+background: url('../../images/silver_price.png') left top no-repeat;
 margin-top: 14px;
 padding-top: 162px;
 }
